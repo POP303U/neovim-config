@@ -1,4 +1,4 @@
-#neovim-config
+# neovim-config
 Simple to use neovim-config for developing in Rust
 
 **Features** 
