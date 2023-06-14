@@ -89,21 +89,27 @@ _G.packer_plugins = {
     path = "/home/android/.local/share/nvim/site/pack/packer/start/cmp-buffer",
     url = "https://github.com/hrsh7th/cmp-buffer"
   },
+<<<<<<< HEAD
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
     url = "https://github.com/hrsh7th/cmp-nvim-lsp"
   },
+=======
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
   ["cmp-path"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/cmp-path",
     url = "https://github.com/hrsh7th/cmp-path"
   },
+<<<<<<< HEAD
   ["cmp-vsnip"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/cmp-vsnip",
     url = "https://github.com/hrsh7th/cmp-vsnip"
   },
+=======
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
   cmp_luasnip = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
@@ -174,11 +180,14 @@ _G.packer_plugins = {
     path = "/home/android/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+<<<<<<< HEAD
   ["rust-tools.nvim"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/rust-tools.nvim",
     url = "https://github.com/simrat39/rust-tools.nvim"
   },
+=======
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
   ["telescope.nvim"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/telescope.nvim",
@@ -193,11 +202,14 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
     url = "https://github.com/christoomey/vim-tmux-navigator"
+<<<<<<< HEAD
   },
   ["vim-vsnip"] = {
     loaded = true,
     path = "/home/android/.local/share/nvim/site/pack/packer/start/vim-vsnip",
     url = "https://github.com/hrsh7th/vim-vsnip"
+=======
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
   }
 }
 

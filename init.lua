@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 -- This file just loads all the lua files and configurations.
 -- If a new file is created but not mentioned here it will not load.
 
 -- init basic settings
+=======
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
 require 'core.keymaps'
 require 'core.plugins'
 require 'core.options'
 
+<<<<<<< HEAD
 -- loads plugins
 require 'core.plugin_config.catppuccin'
 require 'core.plugin_config.telescope'
@@ -192,3 +196,11 @@ keymap("n", "<Leader>co", "<cmd>Lspsaga outgoing_calls<CR>")
 
 -- Floating terminal
 keymap({"n", "t"}, "<A-d>", "<cmd>Lspsaga term_toggle<CR>")
+=======
+-- loads init.lua for plugins
+require 'core.plugin_config'
+
+-- loads init.lua for lsp config
+require 'core.plugin_config.lsp'
+
+>>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
