@@ -25,7 +25,6 @@ return require('packer').startup(function(use)
   use 'christoomey/vim-tmux-navigator'
   use 'szw/vim-maximizer'
 
-<<<<<<< HEAD
    -- Autocompletion framework
   use("hrsh7th/nvim-cmp")
   use({
@@ -42,12 +41,11 @@ return require('packer').startup(function(use)
 
   -- Snippet engine
   use('hrsh7th/vim-vsnip')
-=======
+
   -- autocompletion
   use 'hrsh7th/nvim-cmp'
   use 'hrsh7th/cmp-buffer'
   use 'hrsh7th/cmp-path'
->>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
 
   -- snippets
   use 'L3MON4D3/LuaSnip'
@@ -66,10 +64,9 @@ return require('packer').startup(function(use)
   -- lsp
   use 'williamboman/mason.nvim'
   use 'williamboman/mason-lspconfig.nvim'
-<<<<<<< HEAD
+
   use 'simrat39/rust-tools.nvim'
-=======
->>>>>>> ac55841698e9ccc464636ea4d34d8f6c13cbf090
+
   use 'neovim/nvim-lspconfig'
   use 'onsails/lspkind.nvim'
   use { 'glepnir/lspsaga.nvim', branch = 'main' }
